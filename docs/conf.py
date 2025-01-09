@@ -28,7 +28,7 @@ extensions = [
     "sphinx_copybutton",
     "sphinx_togglebutton",
     "cappa.ext.docutils",
-    "sphinx_github_changelog",
+    # "sphinx_github_changelog",
     "sphinxcontrib.mermaid",
     "sphinx_docsearch",
 ]
